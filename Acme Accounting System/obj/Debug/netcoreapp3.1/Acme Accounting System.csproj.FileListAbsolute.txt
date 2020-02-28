@@ -1,0 +1,11 @@
+C:\Users\Samuel\source\repos\Acme Accounting System\Acme Accounting System\bin\Debug\netcoreapp3.1\Acme Accounting System.exe
+C:\Users\Samuel\source\repos\Acme Accounting System\Acme Accounting System\bin\Debug\netcoreapp3.1\Acme Accounting System.deps.json
+C:\Users\Samuel\source\repos\Acme Accounting System\Acme Accounting System\bin\Debug\netcoreapp3.1\Acme Accounting System.runtimeconfig.json
+C:\Users\Samuel\source\repos\Acme Accounting System\Acme Accounting System\bin\Debug\netcoreapp3.1\Acme Accounting System.runtimeconfig.dev.json
+C:\Users\Samuel\source\repos\Acme Accounting System\Acme Accounting System\bin\Debug\netcoreapp3.1\Acme Accounting System.dll
+C:\Users\Samuel\source\repos\Acme Accounting System\Acme Accounting System\bin\Debug\netcoreapp3.1\Acme Accounting System.pdb
+C:\Users\Samuel\source\repos\Acme Accounting System\Acme Accounting System\obj\Debug\netcoreapp3.1\Acme Accounting System.csprojAssemblyReference.cache
+C:\Users\Samuel\source\repos\Acme Accounting System\Acme Accounting System\obj\Debug\netcoreapp3.1\Acme Accounting System.AssemblyInfoInputs.cache
+C:\Users\Samuel\source\repos\Acme Accounting System\Acme Accounting System\obj\Debug\netcoreapp3.1\Acme Accounting System.AssemblyInfo.cs
+C:\Users\Samuel\source\repos\Acme Accounting System\Acme Accounting System\obj\Debug\netcoreapp3.1\Acme Accounting System.dll
+C:\Users\Samuel\source\repos\Acme Accounting System\Acme Accounting System\obj\Debug\netcoreapp3.1\Acme Accounting System.pdb
